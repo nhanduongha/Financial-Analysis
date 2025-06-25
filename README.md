@@ -1,4 +1,4 @@
-# Edinburgh's-Report
+# Financial Analysis
 A project using DCF model to provide a report of Edinburgh's financial aspects to help Boards of directors make the right decisions. It including:
 - The company’s equity valuation;
 - The international expansion project in Belgium;
