@@ -1,6 +1,1 @@
-# Financial Analysis
-A project using DCF model to provide a report of Edinburgh's financial aspects to help Boards of directors make the right decisions. It including:
-- The company’s equity valuation;
-- The international expansion project in Belgium;
-- The company’s current capital structure and the recommendation;
-- The company’s dividend policy and the recommendation.
+A detailed financial analysis of Edinburgh Plc, focusing on equity valuation, capital structure, and investment appraisal. This project includes a Discounted Cash Flow (DCF) model, cost of capital estimation (WACC), and evaluation of an international expansion project in Belgium using NPV, IRR, and discounted payback period. Recommendations are made based on corporate finance theory and market benchmarks.
